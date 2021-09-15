@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string>
 #include <errno.h>
-#include "PanoMaker/DPPanoMakerProDLLMain.h"
+#include "PanoMaker/include/DPPanoMakerProDLLMain.h"
 
 using namespace std;
 
